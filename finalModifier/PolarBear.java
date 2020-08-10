@@ -15,7 +15,7 @@ public class PolarBear {
     name = "EggHead";
   }
 
-  // This class the non argument constructor where name variable is initialized
+  // This calls the non argument constructor where name variable is initialized
   public PolarBear(int height) {
     this();
 
